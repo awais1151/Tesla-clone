@@ -50,7 +50,7 @@ padding: 0 20px;
 left:0;
 right:0;
 top:0;
-z-index: 1;
+z-index: 22;
 
 `
 const Menu=styled.div`
